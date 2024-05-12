@@ -56,7 +56,7 @@ impl Application for App {
     }
 
     fn title(&self) -> String {
-        String::from("Chaikin Algorithm")
+        String::from("Chaikin's Algorithm Animation")
     }
 
     fn view(&self) -> Element<Message> {
