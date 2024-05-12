@@ -35,7 +35,7 @@ To use the application, follow these steps:
 Provide code and explanations for how to install your project.
 
 ```bash
-git clone https://github.com/username/project.git
-cd project
+git clone https://github.com/abdotop/chaikin.git
+cd chaikin
 cargo run
 ```
